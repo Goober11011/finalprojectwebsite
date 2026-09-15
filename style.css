@@ -1,0 +1,12 @@
+h2,
+h1 {
+	text-align: center;
+}
+
+p {
+	height: 400px;
+	width: 400px;
+	border-style: inset;
+	overflow: scroll;
+	margin: auto;
+}
