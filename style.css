@@ -12,6 +12,10 @@ hr {
 	padding: 0;
 }
 
+body{
+	overflow: auto;
+}
+
 html {
 	background-image: url("snow.jpg");
 	background-repeat: no-repeat;
@@ -20,7 +24,6 @@ html {
 	height: 100%;
 
 	font-family: onlineFont;
-	overflow: auto;
 }
 
 h1 {
