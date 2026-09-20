@@ -12,8 +12,9 @@ hr {
 	padding: 0;
 }
 
-body{
-	overflow: auto;
+body {
+	margin: 0;
+	background: transparent;
 }
 
 html {
@@ -21,9 +22,10 @@ html {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
-	height: 100%;
+	background-attachment: fixed;
 
 	font-family: onlineFont;
+	overflow: auto;
 }
 
 h1 {
